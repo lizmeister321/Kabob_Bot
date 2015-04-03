@@ -1,5 +1,5 @@
 
-curl -X POST --data-urlencode 'payload={"username": "TastyBot","icon_emoji": ":tastykabob:","channel" : "@playground","text": "It\'s <https://twitter.com/tastykabob|Tasty Kabob> Time!" }' https://hooks.slack.com/services/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
+curl -X POST --data-urlencode 'payload={"username": "TastyBot","icon_emoji": ":tastykabob:","channel" : "@playground","text": "Its <https://twitter.com/tastykabob|Tasty Kabob> Time!" }' https://hooks.slack.com/services/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
 
 
 
